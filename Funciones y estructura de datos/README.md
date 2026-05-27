@@ -81,11 +81,11 @@ Processes a file with match history and returns:
 
 ## Completion Requirements
 
-- ✔️ Reproducible and well-commented code
-- ✔️ Functions return results (not just prints)
-- ✔️ Input data validation
-- ✔️ Working demonstration for each exercise
-- ✔️ Handling of special cases and errors
+- Reproducible and well-commented code
+- Functions return results (not just prints)
+- Input data validation
+- Working demonstration for each exercise
+- Handling of special cases and errors
 
 ## Important Notes
 
