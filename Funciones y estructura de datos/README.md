@@ -72,27 +72,6 @@ Processes a file with match history and returns:
 - Most-scored-against team
 - Overall standings (win: 3 pts, draw: 1 pt, loss: 0 pts)
 
-## 🚀 How to Use
-
-1. Open the file `functions_structures_data_loops.ipynb` in Jupyter Notebook or JupyterLab
-2. Execute the cells for each exercise
-3. Results will be displayed directly in the notebook
-
-### Usage Example
-
-```python
-# BMI Calculator
-bmi_result = calculate_bmi(70, 1.75)
-print(bmi_result)
-
-# Temperature Converter
-conversions = convert_temperature(25, 'C')
-print(conversions)
-
-# Word Counter
-frequency = count_words("Hello how are you? Hello!")
-print(frequency)
-```
 
 ## Dependencies
 
