@@ -11,7 +11,7 @@ End-to-end data wrangling and analysis pipeline built on an employee survey data
 ## Project Structure
  
 ```
-Python-Avanzado/
+Limpieza de datos y análisis exporatorio/
 ├── encuestas.ipynb              # Main notebook (all levels)
 ├── Encuesta_trabajadores.xlsx   # Source dataset
 ├── matriu_distancies.xlsx       # City distance matrix
