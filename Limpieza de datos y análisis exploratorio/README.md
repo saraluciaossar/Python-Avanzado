@@ -44,7 +44,6 @@ Limpieza de datos y análisis exporatorio/
  
 - Salary increments stored as strings (`"3,5%"`) — converted to floats programmatically using `str.replace` and `pd.to_numeric` before applying
 - Age calculation uses `datetime.today()` to remain accurate on any run date
-- The routing algorithm is intentionally greedy (not optimal); complexity vs. interpretability trade-off documented in the notebook
 
 Salary increments stored as strings ("3,5%") — converted to floats programmatically using str.replace and pd.to_numeric before applying
 Age calculation uses datetime.today() to remain accurate on any run date
