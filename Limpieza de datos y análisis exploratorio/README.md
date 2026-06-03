@@ -2,13 +2,11 @@
  
 **Tools:** Python · pandas · NumPy · matplotlib · seaborn · openpyxl
  
----
  
 ## Overview
  
 End-to-end data wrangling and analysis pipeline built on an employee survey dataset. The project covers data normalization, feature engineering, salary aggregation, and automated chart generation — plus a combinatorial routing problem solved with a greedy nearest-neighbor algorithm.
  
----
  
 ## Project Structure
  
@@ -25,7 +23,6 @@ sprint10/
 └── graf_*.png                   # Auto-generated charts (Level 3)
 ```
  
----
  
 ## What's Inside
  
@@ -41,8 +38,7 @@ sprint10/
 - Generated a summary file with headcount, average salary, and median age per group
 ### Level 3 — Generalized Charting & Route Optimization
 - **Auto-chart function:** detects column dtype and generates the appropriate chart type (histogram/boxplot for numeric, bar chart for categorical, bar chart by year for datetime); validated on the seaborn `penguins` dataset
-- **Travelling Salesman (greedy):** loads a city distance matrix, removes non-driveable cities (Las Palmas, Palma), and returns the shortest route found via nearest-neighbor heuristic from any starting city — including total distance and the optimal starting point across all cities
----
+
  
 ## Key Decisions
  
