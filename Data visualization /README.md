@@ -1,4 +1,4 @@
-# Sprint 10 — Data Visualization with Python and MySQL
+# Data Visualization with Python and MySQL
 
 ## Description
 
